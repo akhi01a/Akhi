@@ -1,6 +1,6 @@
 {
-  "Author": "SHAHADAT SAHU",
-  "version": "3.0.0",
+  "Author": "Sifu",
+  "version": "1",
   "language": "en",
   "adminOnly": false,
   "autoSent": true,
@@ -13,7 +13,7 @@
   "EMAIL": "Facebook number/ID",
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
-  "BOTNAME": "𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓",
+  "BOTNAME": "Sifu chat bot",
   "PREFIX": "/",
   "usePrefix": false,
   "reactUnsend": [
@@ -21,14 +21,17 @@
     "🤧",
     "😤",
     "😠"
+    "🥺"
+    "🤣"
+    "🥲"
   ],
   "ADMINBOT": [
-    "100044713412032",
-    "100004225532317",
-    "100044713412032"
+    "61592444193026",
+    "61592444193026",
+    "61592444193026"
   ],
   "DEVELOPER": [
-    "100044713412032"
+    "61592444193026"
   ],
   "APPSTATEPATH": "appstate.json",
   "FCAOption": {
